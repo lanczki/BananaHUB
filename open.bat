@@ -1,0 +1,1 @@
+.\tools\easyeda-git.exe open .\hw\bananahub.eprj2.sql
